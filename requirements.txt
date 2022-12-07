@@ -1,0 +1,12 @@
+anndata
+numpy
+pandas
+scanpy
+scikit-learn
+scipy
+seaborn
+sparse
+umap-learn
+joblib
+lightgbm
+nmslib
